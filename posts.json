@@ -8,9 +8,9 @@
     ]
   },
   {
-    "title": "Welcome to my blog",
+    "title": "Welcome to my Curious Creations",
     "date": "2026-04-24",
-    "body": "This is my new blog. It lives on **GitHub Pages**, which means it's free, it's mine, and nobody can take it offline.\n\nI'll post writing, audio, PDFs, and links here whenever I want. To add a new post, I just edit one file — `posts.json` — and GitHub publishes it automatically within a minute or two.\n\nFor formatting, I can use **bold**, *italic*, and [links like this](https://example.com).",
+    "body": "I'll post music, writing, PDFs, videos, links, other stuff maybe.",
     "attachments": [
       { "type": "link", "title": "An example link post", "url": "https://en.wikipedia.org/wiki/Blog" }
     ]

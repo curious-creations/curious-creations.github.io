@@ -1,5 +1,14 @@
 [
   {
+"title": "Blues suno v5.5 group upload",
+"date": "2026-04-25",
+"body": "Group song upload test.",
+"attachments": [
+{ "type": "audio", "title": "Gutter Hymn Razor Rap", "url": "media/suno5.5-gutter-hymn-razor-rap.mp3" },
+  { "type": "audio", "title": "Will in Motion Bluesy", "url": "media/suno5.5-will-in-motion-bluesy.mp3" }
+]
+},
+  {
     "title": "Ashtray Full of Yesterdays",
     "date": "2026-04-25",
     "body": "mp3 Test Upload",

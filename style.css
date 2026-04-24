@@ -1,0 +1,124 @@
+/* ---------- Reset & base ---------- */
+*, *::before, *::after { box-sizing: border-box; }
+html { -webkit-text-size-adjust: 100%; }
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+  font-size: 17px;
+  line-height: 1.6;
+  color: #1a1a1a;
+  background: #fafafa;
+}
+a { color: #0b6bcb; text-decoration: none; }
+a:hover { text-decoration: underline; }
+img { max-width: 100%; height: auto; display: block; }
+
+.container {
+  max-width: 720px;
+  margin: 0 auto;
+  padding: 0 20px;
+}
+
+/* ---------- Header ---------- */
+.site-header {
+  border-bottom: 1px solid #e6e6e6;
+  background: #fff;
+  padding: 32px 0 24px;
+  margin-bottom: 32px;
+}
+.site-title {
+  margin: 0 0 4px;
+  font-size: 28px;
+  letter-spacing: -0.02em;
+}
+.site-title a { color: #1a1a1a; }
+.site-title a:hover { text-decoration: none; color: #0b6bcb; }
+.site-tagline {
+  margin: 0;
+  color: #666;
+  font-size: 15px;
+}
+
+/* ---------- Posts ---------- */
+.posts { display: flex; flex-direction: column; gap: 40px; padding-bottom: 40px; }
+.loading, .empty { color: #888; font-style: italic; }
+
+.post {
+  background: #fff;
+  border: 1px solid #e6e6e6;
+  border-radius: 10px;
+  padding: 24px 24px 20px;
+  box-shadow: 0 1px 2px rgba(0,0,0,0.03);
+}
+.post-title {
+  margin: 0 0 6px;
+  font-size: 22px;
+  letter-spacing: -0.01em;
+  line-height: 1.3;
+}
+.post-date {
+  margin: 0 0 16px;
+  font-size: 13px;
+  color: #888;
+  text-transform: uppercase;
+  letter-spacing: 0.04em;
+}
+.post-body { margin: 0 0 16px; }
+.post-body p { margin: 0 0 12px; }
+.post-body p:last-child { margin-bottom: 0; }
+
+/* ---------- Attachments ---------- */
+.attachments {
+  margin-top: 16px;
+  display: flex;
+  flex-direction: column;
+  gap: 12px;
+}
+
+.attachment-link {
+  display: inline-flex;
+  align-items: center;
+  gap: 8px;
+  padding: 10px 14px;
+  background: #f0f4fa;
+  border: 1px solid #d6e1ef;
+  border-radius: 8px;
+  color: #0b6bcb;
+  font-size: 15px;
+  width: fit-content;
+  max-width: 100%;
+}
+.attachment-link:hover { background: #e4edf8; text-decoration: none; }
+.attachment-link .icon { font-size: 18px; }
+
+audio {
+  width: 100%;
+  margin-top: 4px;
+}
+
+.pdf-embed {
+  width: 100%;
+  height: 600px;
+  border: 1px solid #e6e6e6;
+  border-radius: 8px;
+  margin-top: 4px;
+}
+
+/* ---------- Footer ---------- */
+.site-footer {
+  border-top: 1px solid #e6e6e6;
+  background: #fff;
+  padding: 20px 0;
+  text-align: center;
+  color: #888;
+  font-size: 13px;
+  margin-top: 40px;
+}
+
+/* ---------- Mobile ---------- */
+@media (max-width: 480px) {
+  body { font-size: 16px; }
+  .post { padding: 18px; border-radius: 8px; }
+  .post-title { font-size: 19px; }
+  .pdf-embed { height: 400px; }
+}

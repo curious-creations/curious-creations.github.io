@@ -1,5 +1,13 @@
 [
   {
+"title": "Ashtray Full of Yesterdays",
+"date": "2-17-2026",
+"body": "First Test Audio Upload.",
+"attachments": [
+{ "type": "audio", "title": "Ashtray Full of Yesterdays", "url": "suno5-ashtray-full-of-yesterdays.mp3" }
+]
+},
+  {
     "title": "Welcome to my blog",
     "date": "2026-04-24",
     "body": "This is my new blog. It lives on **GitHub Pages**, which means it's free, it's mine, and nobody can take it offline.\n\nI'll post writing, audio, PDFs, and links here whenever I want. To add a new post, I just edit one file — `posts.json` — and GitHub publishes it automatically within a minute or two.\n\nFor formatting, I can use **bold**, *italic*, and [links like this](https://example.com).",

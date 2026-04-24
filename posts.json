@@ -15,19 +15,4 @@
       { "type": "link", "title": "An example link post", "url": "https://en.wikipedia.org/wiki/Blog" }
     ]
   },
-  {
-    "title": "Example audio post",
-    "date": "2026-04-23",
-    "body": "Here's how an audio post looks. Put your MP3 in the `media/` folder, then reference it in `posts.json`.\n\nThe audio player works on desktop and mobile, and there's a download link for listeners who want a copy.",
-    "attachments": [
-      { "type": "audio", "title": "Episode 1 — Sample recording", "url": "media/sample.mp3" }
-    ]
-  },
-  {
-    "title": "Example PDF post",
-    "date": "2026-04-22",
-    "body": "PDFs are embedded right in the page so readers can preview them, and there's a link to open the full file in a new tab.",
-    "attachments": [
-      { "type": "pdf", "title": "Sample document.pdf", "url": "media/sample.pdf" }
-    ]
 ]

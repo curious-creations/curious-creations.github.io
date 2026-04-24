@@ -11,8 +11,5 @@
     "title": "Welcome to my Curious Creations",
     "date": "2026-04-24",
     "body": "I'll post music, writing, PDFs, videos, links, other stuff maybe.",
-    "attachments": [
-      { "type": "link", "title": "An example link post", "url": "https://en.wikipedia.org/wiki/Blog" }
-    ]
   }
 ]

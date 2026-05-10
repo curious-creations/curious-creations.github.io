@@ -1,5 +1,13 @@
 [
   {
+"title": "Morse Code Learning Guide",
+"date": "2026-05-10",
+"body": "A quick guide that teaches the english alphabet in morse code, and numbers.",
+"attachments": [
+{ "type": "pdf", "title": "plex_labs_morse_code.pdf", "url": "media/plex_labs_morse_code.pdf" }
+]
+},
+  {
 "title": "Quantitron Veo Video Upload Test",
 "date": "2026-04-25",
 "body": "A Quantitron - a ficitionalized form of matter smaller than quarks, made up in March 2024, turned into a midjourney picture and then made into a veo video.",

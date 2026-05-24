@@ -1,5 +1,13 @@
 [
   {
+"title": "Morse Game 2",
+"date": "2026-05-24",
+"body": "This one moves a little faster and has a mix of relaxed play with time-sensitive attacks. Letters and numbers, but not words.",
+"attachments": [
+{ "type": "link", "title": "Morse Game 2", "url": "https://www.perplexity.ai/computer/a/4f04093a-cf87-558e-8d9f-eb1f3a232fad" }
+]
+},
+  {
 "title": "Morse Code Game",
 "date": "2026-05-24",
 "body": "A morse code game of decoding the message. It's recommended to have mostly learned the alphabet before playing. The audio is fairly slow and good for beginners, though it's little heavy on repeat letters.",

@@ -1,5 +1,13 @@
 [
   {
+"title": "Tarot Cats",
+"date": "2026-05-25",
+"body": "This is an interactive 1 or 3 card tarot reading. Each card was modeled after the classic Rider-Waite set, set but with a cat theme. All were made in midjourney. The interactive tarot reading site was made in v0.dev. The descriptions and meanings were assembled by me using various sources.",
+"attachments": [
+{ "type": "link", "title": "Tarot Cats", "url": "https://v0-cat-tarot-website-e3ajrs.vercel.app/" }
+]
+},
+  {
 "title": "Carrot Hopper",
 "date": "2026-05-25",
 "body": "Early v0.dev build, simple game yet fun to try and get over 100. Starts slow but gets faster and faster.",

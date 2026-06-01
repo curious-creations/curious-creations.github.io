@@ -1,5 +1,13 @@
 [
   {
+"title": "Creature Quest",
+"date": "2026-06-01",
+"body": "This is a simple 1 gym, 20 creature, pokemon-style game made in v0.dev.",
+"attachments": [
+{ "type": "link", "title": "Creature Quest", "url": "https://v0-pokemon-game-website-rho.vercel.app/" }
+]
+},
+  {
 "title": "Tarot Cats",
 "date": "2026-05-25",
 "body": "This is an interactive 1 or 3 card tarot reading. Each card was modeled after the classic Rider-Waite set, set but with a cat theme. All were made in midjourney. The interactive tarot reading site was made in v0.dev. The descriptions and meanings were assembled by me using various sources.",
